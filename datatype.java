@@ -53,13 +53,19 @@ public class datatype {
             //    System.out.println( (int) initial);// isko int ma convert karne par hame uska ascii value mil jayega
 
 
-            char heartsymbol = 'z';
-                System.out.println( (int) heartsymbol);// isko int ma convert karne par hame uska ascii value mil jayega
+            // char heartsymbol = 'z';
+            //     System.out.println( (int) heartsymbol);// isko int ma convert karne par hame uska ascii value mil jayega
 
-            char hindichar = 2300; // unicode character for hindi character
-                System.out.println(hindichar); // isko char ma convert karne par hame uska unicode character mil jayega
+            // char hindichar = 2300; // unicode character for hindi character
+            //     System.out.println(hindichar); // isko char ma convert karne par hame uska unicode character mil jayega
 
             
+          // char dill  = '\u2665'; // unicode character for heart symbol unicode representation of heart symbol
+          //     System.out.println(dill); // isko char ma convert karne par hame us
+
+
+
+
 
 
               // boolean
